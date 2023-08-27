@@ -6,7 +6,7 @@ const Test = () => {
   return (
     <div>
       <main>
-       polar
+       polaridade
       </main>
       {/* Footer e outras partes da página */}
     </div>
